@@ -1,0 +1,135 @@
+Buchführung / 	auch Buchhaltung oder Finanzbuchhaltung kurz FIBU gesetzlich 
+				geregelt und das Unternehmen ist gesetzlich dazu verpflichtet
+
+Inventur / Inventar 
+
+	Inventur bezeichet den Vorgang zur Ermittlung des Inventars,
+		die Inventur ist eine Bestandsaufnahme enweder zu einem Zeitpunkt 
+		oder im Falle eines Laufendem Geschäftes über einen Zeitraum
+		Dabei umfasst die Inventur sowohl jegliche Gegenstände wie LagerBestand Machienen 
+		und Bargeld als auch Schulden Kredite und Verbindlichkeiten
+		
+	Zweck 
+		Grundlage für den JahresAbschluss
+		Korrektur der LagerBuchführung 
+		Überprüfung der Buchbestände
+		
+	Methoden
+		Körperlich - Wiegen messen Zählen 
+			die Menge wird notiert und am Ende in Werte Umgerechnet
+		
+		buchmäßig - Aufzeichnungen Geldbestände vond er Bank Forderungen oder Verbindlichektien
+				!!! Stichtag zu protokilieren
+				
+				
+	Arten
+		Stichtag
+		Zeitversezt
+		Permanent
+		Stichproben
+		Buchinventur
+		Körperliche Inventur
+		
+		
+Finanzbuchhaltung (FIBU)
+	Alle Gescäftsvorfälle Lückenlos aufgezeichnet
+	
+	Geschäftsvorfälle können aus Beziehungen Zwischen Lieferant Kunden Arbeitnehmern und dem Unternehmen bestehen;
+	
+	Aufgaben
+		Feststellung von Vermögen und Schulden 
+				(Stichwort:Forderungen und Verbindlichektien)
+				
+		Dokumentierung der Veränderung von Vermögen und Schulden, 
+				was muss ich noch bezahlen was besitze ich?
+				
+		Ermittlung des Erfolges
+				Betriebs- und Unternehmenserfolg
+				
+		Bereitstellung von Zahlen für die Preiskalkulation
+		
+		dient der innerbetrieblichen Kontrolle
+		
+		Rechtsvorschriften
+		
+		Einkommenssteuergesetz
+		Umsatzsteuergesetz + Durchführungsverordnung
+		Abgabenordnung
+		Gmbh - Gesetzt
+		AktienGesetz
+		Publikationsgesetz
+		Grundlage ordnungsgemäßer Buchhaltung (GoB)!!!!
+		
+Bilanz	- Basis bilded das Inventar
+	
+	---nur Wertangaben keine Mengen---
+	
+	Aktiva(=Vermögensgegenstände)
+	Passiva(=Eigen- und Fremdkapital)
+	
+	dabei Gilt Wert/Aktiv seite = Wert/Passiv Seite
+	
+	Passiva = Wo kommt das Geld her (Mittelherkunft)
+	Aktiva = Wo fließt das geld hinein (Mittelverwendung)
+		
+		
+		bank an verbindlichkeiten
+
+
+Soll an Haben
+
+(soll Seite)	Belastung								(Haben Seiten)	Gutschrift
+Erhöhung von AktivKonten								Minderung von AktivKonten
+Minderung von PassivKonten								Erhöhung von PassivKonten
+Ehöhung der Aufwendungen								Minderung von Aufwendungen
+Minderung der Erträge									Erhöhung der Erträge
+
+GuV
+
+	Bestandskonten 
+
+
+
+
+Erfolgskonten:			Aufwandskonten:
+Zinserträge				Mietaufwand
+Umsatzerlöse			Lohne / Gehälter
+						Betriebssteuern
+
+						
+1.	Überweisung der Büromiete in Höhe von 5.000 €	Mietaufwand 5.000 € an Bank 5.000 €
+2.	Bezahlung der Löhne (30.000 €)	Lohn/Gehalt 30.000 € an Bank 30.000 €
+3.	Überweisung der Betriebssteuern (5.000 €)	Betriebssteuern 5.000 € an Bank 5.000 €
+4.	Umsatzerlöse wurden durch den Verkauf von Computerteilen erzielt (20.000 €)	Bank 20.000 € an Umsatzerlöse 20.000 €
+5.	Zinsgutschrift durch die Bank (1.000 €)	Bank 1.000 € an Zinserträge 1.000 €
+
+
+
+
+												GUV	
+
+
+Soll	Haben					Soll							Haben																			
+55k		60k																					
+5k								60k								240k					
+--------------					360k							1k																
+60k		60k						60k						saldo	239k							
+//////////////					--------------------------------------																						
+Soll	Haben					480k							480k									
+330k	360k																					
+30k										239k Verluste													
+--------------																					
+360k	360k																					
+//////////////																					
+Soll 	Haben
+55k		60k
+5k
+--------------
+60k		60k
+
+
+
+
+
+												
+
