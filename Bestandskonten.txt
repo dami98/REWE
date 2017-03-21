@@ -1,0 +1,66 @@
+
+
+Maschienen 50.000.00			Eigenkapital	40.000.00
+Kasse 10.000.00					Darlehen 		40.000.00
+Bankguthaben 20.000.00				
+							
+
+Summe=80.000.00					Summe =80.000.00
+
+
+
+
+S Maschinen H								S	Eigenkapital   H			
+--------------								--------------------						
+  50k		65												40k			
+VBK 15k																	
+																	
+65k			65k														
+																	
+																	
+																	
+S Kasse H									S Darlehen H																	
+----------									------------															
+10k														40k			
+																	
+																	
+																	
+																	
+																	
+S Bankguthaben H							S  Verbindlichkeiten  H		
+-----------------							------------------------																	
+20k											15k					15k	
+																15k	
+																	
+Kauf von Maschinen auf ziel 15k																	
+																	
+																	
+																	
+Maschienen 65.000.00			Eigenkapital		40.000.00
+Kasse 10.000.00					Darlehen 			40.000.00
+Bankguthaben 20.000.00			Verbindlichkeiten	15.000.00
+							
+
+Summe=95.000.00					Summe =95.000.00																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	

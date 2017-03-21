@@ -1,0 +1,10 @@
+Grundlagen Erstellen von Batch Dateien
+Arbeiten als Team mithilfe von GitHub
+C#
+Programmieren mithilfe von Unit-Tests
+erstellen eines einfachen Installers
+SQL 
+HTMl
+CSS
+XML
+XSL

@@ -31,6 +31,55 @@ Inventur / Inventar
 		Körperliche Inventur
 		
 		
+Inventar
+	
+	Ausführliches Bestandsverzeicnis von Vermögen und Schulden
+	
+	3 Hauptteile
+		Vermögen
+			I. 	AnlageVermögen (...wird GEbraucht)
+				Gebäude, Maschienen, Fahrzeuge...usw
+				
+			II.	Umlaufvermögen(...wird VERbraucht)
+				Material,Forderung,Bankguthaben...
+				|
+				|	Gegliedert nach steigender Liquidität
+				|	(wie leicht lassen sie sich zu geld machen)
+				
+				
+		Schulden
+			I.	Langfristige Schulden(i.d.R Finanzierung des AV)
+				Hypotheken-,Darlehensschuld...
+				
+			II. Kurzfristige Schulden (i.d.R Finanzierung des Umlaufvermögen)
+				Verbindlichkeiten bei Lieferanten, Banken...
+				
+				Gegliedert nach abnehmender Fälligkeit
+				(Schulden welche innerhalb eines Jahres getilgt werden sind kurzfristig darüber hinaus Langfristig)
+				
+								
+		Reinvermögen
+				Vermögen
+			-	Schulden
+			------------
+				Reinvermögen[....Eigenkapital]
+				
+				
+				
+				
+	Staffelform
+		-untereinander
+		-mit Zwischenergebnissen
+		
+		Beispiel:									|
+											  EUR	|	EUR
+		Guthaben bei Kreditinstituen				|			
+		  Stadtsparkasse Dessau-Roßla	  30.000.00	|		  
+		  Volksbank Dessau-Anhalt e.G.	  25.000.00	|	55.000.00					
+				
+	
+		
+		
 Finanzbuchhaltung (FIBU)
 	Alle Gescäftsvorfälle Lückenlos aufgezeichnet
 	
@@ -60,7 +109,10 @@ Finanzbuchhaltung (FIBU)
 		Publikationsgesetz
 		Grundlage ordnungsgemäßer Buchhaltung (GoB)!!!!
 		
-Bilanz	- Basis bilded das Inventar
+		
+		
+		
+Bilanz	- Basis bildet das Inventar
 	
 	---nur Wertangaben keine Mengen---
 	
