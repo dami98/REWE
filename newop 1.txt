@@ -1,0 +1,59 @@
+Wir kaufen einen Geschäftswagen auf Rechnung, er kostet 20.000,00 €.
+
+
+Fuhrpark nimmt zu 
+Fuhrpark aktiv 
+-> zunahme soll seite
+
+auf rechnung -> verbindlichkeit -> passiv -> zunahme passiv seite aktiv passiv Mehrung
+
+Fuhrpark + 20.000,00€ 
+Verbindlichkeit +20.000,00€
+
+
+
+
+
+
+Rohstoffe aktiv zugang 5.000,00€
+Verbindlichkeit passiv zugang 5.000,00€
+
+
+Maschinen aktiv zugang soll 80.000,00€
+verbindlichkeit passiv zugang haben 80.000,00€
+
+
+bebautes Grundstück forderung  aktiv tausch
+
+bebautes Grundstück aktiv abgang haben
+forderung aktiv zugang soll
+
+forder aus L.l. an grundstück
+
+
+
+Darlehensschuld +100.000,00€
+Bank +100.000,00€
+
+Darlehensschuld zugang passiv haben
+bank zugang aktiv soll
+
+bank an Darlehensschuld
+
+
+geld ab aktiv tausch 
+bank an kasse
+
+bank aktiv zugang soll
+kasse aktiv abgang haben
+
+
+
+bank aktiv abgang haben
+Verbindlichkeit abgang soll
+
+
+Rohstoffe zugang aktiv soll
+Kasse abgang aktiv haben
+
+Rohstoffe an kasse ejweils2.000.s
