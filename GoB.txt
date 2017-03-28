@@ -1,0 +1,158 @@
+Rahmengrundsätze:
+	- Richtigkeit und Willkürfreiheit
+	- Klarheit und Übersichtlichkeit
+	- Einzelbewertung
+	- Vollständigkeit
+	- Wertaufhellung
+	
+Abgrenzungsgrundsätze:
+	- Realisationsprinzip
+	- Imparitätsprinip
+	- Grundsatz der sachlichen und zeitlichen Abgrenzung
+	
+Ergänzende Grundsätze:
+	- Vorsicht
+	- Kontinuität
+	- Fortführung der Unternehmenstätigkeit
+	- Periodisierungsprinzip
+	- Stichtagsprinzip
+	
+	
+	
+	Rahmengrundsätze:
+	
+			// Richtigkeit und Willkürfreiheit \\
+				--ist erfüllt, wenn der Jahresabschluss nach den gültigen Regeln erstellt wurde 
+				sowie Ansätze und Werte in nachprüfbarer, 
+				objektiver Form aus ordnungsgemäßen Belegen und Büchen 
+				herzuleiten sind. 
+				Die einzelnen Positionen müssen den 
+				Tatsachen entsprechen und die Werte nach den sonstigen 
+				GoB ermittelt worden sein. Sofern nicht vermeidbar, sind
+				Schätzwerte nach eigenem Ermessen festzusetzen. 
+				Diese sollten möglichst willkürfrei und vertretbar
+				sein und nach festgelegten Verfahren stetig angewandt werden.
+				
+
+			// Klarheit und Übersichtlichkeit
+				-- sachkundiger dritter muss sich in angemessener Zeit einen Überblick verschaffen können
+				-- In einer lebendigen und verständlichen Sprache Deutschland -> Deutsch
+				-- in einer Einheitlichen Form ( Sprache Währung)
+				
+				
+				
+			Grundsatz der Vorsicht:
+				-- Schulden möglichst hochbewerten bei schwankenden werten / Dollar / Gold
+				
+				
+			Grundsatz der Wirtschaftlichkeit
+				-- 
+
+		
+				
+		Vorsichtsprinzip:
+				- Realisatinsprinzip:
+					nur erträge welche Realisiert wurden dürfen verbucht werden, 
+					also wenn die Waren den Gefahrenübergang passiert haben
+					Gewinne dürfen nicht antizipiert werden
+					
+				- Imparitätsprinip
+					Verluste müssen auf einem Rückstellungskonto Rückgestllt werden 
+					Mögliche Verluste der Zukunft werden in die Gegenwart gebracht
+					
+				
+				
+				
+				
+Grundbuch:
+	-Das Grundbuch beihaltet alle Geschäftsvorfälle in zetilicher Reihenfolge (Journal ~ Tagebuch)
+		Chronologisch
+		
+Hauptbuch:
+	- umfasst alle Geschäftsvorfälle aus dem Grundbuch auf Konten
+	
+Nebenbücher:
+	- Sie ergänzen bzw. erläutern die Konten des Hauptbuches Zum Beispiel das Lohn und Gehaltsbuch
+	
+	
+Belegarten 
+	:EigenBeleg:
+			- selbst geschriebene Rechnung ausgangsrechnung (Forderungen)
+	
+	
+	:FremdBeleg:
+			- ein fremder Beleg den ich von einem Fremden von außen erhalten (Verbindlcihekiten) beklomme eine Rechnunh
+			
+	:NotBeleg:
+			- Wenn ein Original Beleg Fehlt
+			
+	Keine Buchung ohne Beleg
+	
+	
+	
+Fristen
+	-stehen im HGB
+		-10 Jahre
+			Buchungsbelege, Bilanzen, GuV´s, Inventare und Handelsbücher
+			
+			
+		-6Jahre 
+			Handelsbriefe (Geschäftsbriefe, Emails Faxe etc.)
+			
+			
+	Frist beginnt mit dem Jahr in de  die Belege angefallen sind
+	
+	
+	
+	
+Personenkonten
+	-Namentlich geführte kunden und Lieferanten Konten(Debitoren & Kreditoren)
+			Debitor(Kundenkonto) Max Mustermann
+			
+			>> Gescähstfreundebuch(Nebenbuch )
+			
+			
+			
+			
+			
+Sachkonten
+	- Konten des Hauptbuches, die über das Schlussbilanzkonto oder das 
+		Gewinn- und Verlustkonto abgeschlossen werden
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
