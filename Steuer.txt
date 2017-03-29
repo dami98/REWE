@@ -1,0 +1,47 @@
+Umsatzsteuer ist die Steuer die vom Verkäufer an das Finanzamt gezahlt wird.
+Vorsteuer ist die Steuer die gezahlt wird wenn ein Händler Ware einkauft.
+
+Beispiel Ein Hersteller verkauft einem Großhändler ein Mobiltelefon zu einem Netto Preis von 100€
+	auf diese 100€ fallen nun für den Verkäufer die 19% Umsatzsteuer an welche er an das Finanzamt geben muss 
+	demnach zahlt der Händler 119€ wovon 19€ an das Finanzamt und 100€ an der hersteller gehen
+	
+
+nun Besitzt der Händler das Handy in Seinem Austellungsraum und verkauft es weiter zu einem Netto Wert von 
+	150 Euro zzgl 19% Umsatzsteuer  diese Umsatzsteuer in Höhe von 28.50€ wird vom Kunden bezahlt 
+	somit bezahlt der Kunde 178.50€ 
+	
+der Händler muss diese 19% der verkauften Ware an das Finanzamt zahlen und bekommt seine gezahlte vorsteuer in höhe von 19€ 
+	19% auf das für 100 euro beim hersteller gekauftem Handy vom Finanzamt wieder 
+	
+	
+	
+	
+	Geldfluss
+	
+	100€
+	19€
+----------
+	119€ 
+
+Händler -> Hersteller 
+
+	19€ Vorsteuer
+Hersteller-> Finanzamt
+
+	150€
+	28.50€
+------------
+	178.50€
+	
+Kunde -> Händler
+
+
+	19€
+Finanzamt -> Händler
+
+	28.50€
+Händler -> Finanzamt
+
+
+
+
