@@ -215,9 +215,165 @@ Grundsätze Ordnunggemäßer Buchführung
 			
 			
 			
+		Übersichtlich geführte Aufzeichnungen
+			Klarheit
+				Äußere Darstellung des Jahresabschlusses
+					- Er muss klar und deutlich sein
+				
+			Einzelbewertung
+				Die Vermögensgegenstände und Schulden sind zum Abschlussstichtag einzeln zu vewerten
+			
+				bsp auto besitzt einen wert von 5,000€ und sie haben noch 3.500 euro schulden bei der Bank so darf das auto
+					nicht mit 3.500 ausgewiesen werden
+				
+			Saldierungsverbot 
+				Aktiv posten dürfennicht mit passivposten und aufwendungen nicht mit Erträgen verrechnet werden
 			
 			
+			
+			
+		Vollständige Aufzeichnung
+			
+			Vollständig Richig zeitgerecht und geordnet
+			-> ALLE Geschäftsvorfälle
+			
+			der Jahresabschluss hat alle Vermögensgegenstände Schulden Rechnungsabgrenzungsposten sowie Aufwendungen und
+			Erträge zu enthalten
+			
+			-> Muss eine Inventur durchgeführt und ein Inventar erstellt werden
+
+
+
+
+
+	BilanzKontinuität
+		Die JahreabschlussBilanz vom 31.12 muss mit der Jahreseröffnungsbilanz vom FolgeJahr übereinstimmen
 		
+		
+		
+	Stetigkeit
+		
+			Bewertungs und Ansatzmethoden müssen im jahresabschluss beibehalten werden
+			
+			Formell 
+				Gleiche Gliederung des Jahresabschlusses.
+				Vergleichzahlen
+				
+			Materiell
+				Gleiche Methoden zur Ermittlung und Bewertung des Jahresabschlussposten
+				
+				
+	Vorsichtsprinziü
+		Historischer Hintergrund
+			vorsichtig Bilanzierender Kaufmann der sich im Zweifel #rmer rechnet als er ist.
+			
+		Bei Situationen under Risiko(Wahrscheinlichekiten sind bekannt) kann der Erwartungswert für die Bilanzierung verwendet werden.
+
+		
+		Bei Situationen unter Ungewissheit(wascheiblichkeiten sind nicht oder nur subjektiv bekannt) bilanzieren sie vorsichtig realistisch ( auf der Passivseite 
+		Hlchster wert, der noch als raealistischangesehen werden kann).
+
+
+	
+		Abgrenzungsprinzipien
+
+			Realisationsprinzip
+					Gewinne sind nur zu berücksichtigen wenn sie am Abschlussstischtag realisiert sind.
+
+						.Gefahrenübergang
+							Unterscheiden sie Lieferbedingungen: Frei Haus und ab werk
+				
+
+					Sachliche Abgrenzung
+						vereinfacht: Aufwendungen gehören in die Periode in der sie zugehörige Ertrag realisiert worden ist
+
+			zeitliche Abgrenzung
+
+				Vereinfacht
+				Aufwendungen und Ertäge werden in der Periode ergebniswirksam zu der sie wirtschaftlich gehören
+					
+					
+				Imparitätsprinzip(imparität = Ungleichheit)
+					Die Imparität besteht in der unterschiedlichen Behandlung von Gewinnen und Verlusten.
+						Ausweis Verbot von nicht Realisierten gewinnen
+						Ausweis Gebot von nicht realisierten Verlsuten
+						
+					
+			Weitere
+			
+				Keine Buchung ohne Beleg
+					Fremdbeleg 
+					Eigenbeleg
+					Notbeleg
+					
+				Aufbewahrungspflicht
+					Bücher Belege Jahresabschlusse Inventare 10 Jahre
+					
+					Rechnungen 6 Jahre
+					
+			Bilanz teilt sich auf in Aktiv und passiv konten 
+				
+				-Aktiv konten setzten sich zusammen aus AnlageVermögen und Umlaufvermögen
+					und mehrunen werden im soll gebucht minderungen im haben
+				
+				-Passiv konten setzten sich aus eigenkaptial und Fremdkapital zusammen
+					Passiv konten besitzen eine Mehrung im Haben und eine Minderung im soll
+					
+				
+			
+			GUV ist die Betrachtung des Zeitraumes oder einer ZeitSpanne
+				GUV ist aufgeteilt erfolgskonten in die Aufwands und in ertrags konten
+					Aufwandskonten werden behandelt wie Aktivkonten und mehren sich im soll und mindern sich im haben
+					
+					Ertragskonten werden behandelt wie passivkonten und mehren sich im Haben und mindern sich im soll
+					
+			
+				
+				
+				
+					
+				
+			
+								
+
+
+			
+										
+											
+											
+												
+												
+												
+													
+										
+											
+											
+											
+											
+									
+
+
+									
+
+
+		
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

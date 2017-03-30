@@ -1,0 +1,6 @@
+C:\Users\dKaestner\Documents\Visual Studio 2012\Projects\BINArryformatter\BINArryformatter\bin\Debug\BINArryformatter.exe.config
+C:\Users\dKaestner\Documents\Visual Studio 2012\Projects\BINArryformatter\BINArryformatter\bin\Debug\BINArryformatter.exe
+C:\Users\dKaestner\Documents\Visual Studio 2012\Projects\BINArryformatter\BINArryformatter\bin\Debug\BINArryformatter.pdb
+C:\Users\dKaestner\Documents\Visual Studio 2012\Projects\BINArryformatter\BINArryformatter\obj\Debug\BINArryformatter.csprojResolveAssemblyReference.cache
+C:\Users\dKaestner\Documents\Visual Studio 2012\Projects\BINArryformatter\BINArryformatter\obj\Debug\BINArryformatter.exe
+C:\Users\dKaestner\Documents\Visual Studio 2012\Projects\BINArryformatter\BINArryformatter\obj\Debug\BINArryformatter.pdb
