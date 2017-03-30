@@ -1,0 +1,246 @@
+● Den Zusammenhang zwischen Beleg – Geschäftsvorfall – Buchführung – Jahresabschluss
+verstehen.
+
+Beleg 	Jeder Kaufmann ist dazu verpflichtet seine Buchungsbelege ordnungsgemäß aufzubewahren
+Geschäftsvorfall
+Buchführung  	nach den grundsätzen der GoB zu führen, sodass seine Bücher für einen Sachverständigen dritten in angemeßener Zeit
+	zu verstehen ist und einen Überblick zu geben
+Jahresabschluss nach den grundsätzen der GoB zu führen
+
+		Jahresabschluss
+			bildet sich aus der Bilanz und der GUV Rechnung
+			und  
+			Bilanz GUV
+			Anhang
+			Lagebericht
+			Kapitalflussrechnung
+			
+			
+Ziele des Externen Rechnungswesen			
+			
+			Information nach außen - Schaffen von Transparenz
+			Steuerbemessung
+			Entscheidungshilfe
+			Ausschüttungsbegrenzung
+			
+			
+			Adressatenk
+			-stakeholder
+			 , alle die interresse haben
+				Staat 
+				mitarbeiter 
+				vorstand
+				bürger
+				Lieferanten
+				Anteilhaber(Shareholder)
+				
+				
+nicht kodifizierte schriften
+	schriften welche nicht fixiert sind aber dennoch bindend beispiel GoB: Da die buchführung 
+	ordnungsgemäß und leicht verständlich sein muss
+
+kodifizierte schriften
+		Gesetzte - Verordnungen - Richtlinien		
+		
+		
+	Handelsrecht 
+		HGB Handelsgesetzbuch
+				in 5 Bücher unterteilt:
+					-handelsstand
+						:-Kaufleute
+						:-Handelsregister,UnternehmensRegister
+						:-Handelsfirma
+					-Handelsgesellschaften und stille Gesellschaften
+					
+					-Handelsbücher
+						-zentrale Rechtsgrundlage fpr externes Renungswesen
+						
+					-handelsgeschäfte
+					
+					-Seehandel
+				
+				
+		einzelne schriften aus dem BGB
+		spezielle gesetzte für bestimmte Rechtsformen
+		Aktiengesetz
+		
+		
+	Steuerrecht  
+		Einkommensteuergesetz
+		Körperschaftsteuergesetz
+		AbgabenOrdnung
+
+
+		
+Handelsbücher
+	3. buch HGB 
+	
+		1. Abschnitt Vorschriften für alle Kaufleute:
+			§238-241a Buchführung und inventar
+			$242 -256a Eröffnungsbilanz, Jahresabschluss
+				-§§ 242-245: Allgemeine Vorschriften, $$ 246-251:Ansatzvorschriften, §§ 252-256a: Bewertungsvorschriften
+			
+			§§ 257 - 261 Aufbewahrung und Vorlage
+				- §§262-263 Landesrecht
+				
+			2. Abschnitt
+			§§264-289a Jahresabschluss der Kapitalgeselschaft und Lagebericht
+				-§§ 264-265: Allgemeine Vorschriften, §§ 266-274a: Bilanz, §§275-277: Gewinn ud Verlustrechnung, §§284-288
+						Anhang, §§289-289a: Lagebericht
+						
+			
+				
+	Jeder Kaufmann ist verpflichtet nach den GoB buchzuführen	
+	
+	Kaufmann
+	Ist -Kaufmann
+		-Kaufmann ist der der ein Handelsgewerbe betreibt
+		
+	Form-Kaufmann
+		-Aufgrund der Rechtsform des Gewerbes (Kapitalgesellschaft genossenschaft)
+		
+	Kann-Kaufmann
+		-hat sich freiwilig ins Handelsregister eintragen lassen um Kaufman zu sein
+		
+	nicht-Kaufmann
+		-ist aufgrund seiner größe nicht dazu sich als Kaufmann im Handelsrgister eintragen zu lassen
+		
+	nach HBG	
+		Buchführungspflicht gilt für alle Kaufleute mit ausnahme von Einzelkaufleuten mit bis zu 600000€ Umsatz und 60000€ 
+		Gewinn auf 2 Abschlussstichtagen hintereinander
+		
+	nach Steuerrecht
+		Gewerbliche Unternehmer und Land- und Forstwrite
+			mit einem: 	Umsatz >600.000€
+						Gewinn > 60.000€
+					
+				das führt dazu das nicht Kaufleute oberhalb diesser Grenze den Kaufleuten gleichgestellt werden
+		
+		
+		Freiberufler uterhalb der grenze haben lediglich eine aufzeichnungspflichgt aber keine Buchführungspflicht 
+		auch wenn dies zu empfehlen ist
+		
+		
+	Inventur ist der Vorgang die Tötigkeit ( die bestandsaufnahme der WertGüter innerhalb des Gewerbes)
+
+	Inventar ist das Ergebnis der Inventur und fließt in die Bilanz ein
+		Die Bilanz ist eine Stichtagspezogene Bestands und WertAngabe Zu dem Zeitpunkt an dem die Inventur gemacht wurde
+		
+		
+Bilanz
+AnlageVermögen								Eigenkapital		
+Fuhpark 		5.000€							6200€
+
+
+
+
+Umlaufvermögen								Fremdkapital
+Forderung 		500€	
+Konto			2.000€							Schulden 1.500€
+Bar				200€
+	
+				7.700€
+
+
+Bank an Forderung
+
+
+
+Erträge 				Aufwand
+3.000€					Urlaub	1.800€
+						Auto	5.000€
+3950					Zinsen	50€
+						Kosten 	100€
+							
+								6950€
+
+									
+
+
+Bilanz zum 31.12
+
+AnlageVermögen			EK
+0						2250
+Umlaufvermögen
+Bank 2150
+kasse 100
+
+
+	
+		
+		
+		
+● Die typischen Bestandteile eines Jahresabschlusses / Geschäftsberichtes benennen können.
+
+● Aufgaben und Ziele von Bilanz und Jahresabschluss angeben können.
+
+● Adressatenkreise des Jahresabschlusses benennen können.
+
+● Wesentliche rechtliche Grundlagen für das Externe Rechnungswesen nennen und einordnen
+können.
+
+● Informationsquellen für Unternehmens- und Jahresabschlussinformationen angeben können.
+
+● Buchführungspflicht inhaltlich und personell erläutern können.
+
+● Begriffe Inventur, Inventar und Bilanz erläutern und in einen Zusammenhang stellen können.
+
+
+
+
+Grundsätze Ordnunggemäßer Buchführung
+
+	Ordnungsmäßigkeit
+		Die Buchführung muss so Beschaffen sein das sie einem Sachverständigen dritten innerhalb einer angemeßener 
+		Zeit einen Überblick über die Geschäftsvorfälle und über die Lage des Unternehmens vermitteln kann
+		
+			-> Sachverständigen Dritten
+			->angemessene Zeit
+			-> Überblick über die Lage des Unternehmens
+			
+		Anforderungen des Sachverständigen Drittens
+		
+			Nachvolziehbare überprüfbare aufzeichnungen
+			Wahrheitsgemäße Aufzeichnungen
+			Übersichtliche aufzeichnnugen 
+			Vollstöndige Aufzeichnung
+			
+			
+		Wahrheitsgemäß
+			
+			-Vollständig
+			-Richtig 
+			-Zeitgerecht
+			-geordnet
+			
+			
+			
+			
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

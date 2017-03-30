@@ -1,0 +1,56 @@
+head,body,aside,p,h1,h2,h3,h4,footer,div,main,section,article,header,ul,nav {
+	padding: 0px;
+	margin:0px;
+}
+article, aside, footer, header, main, nav, section {
+	display: block;
+}
+
+.banner {	
+	background-color:red;
+	color: white;	
+}
+
+nav{
+	background-color: #FF4D4D;
+		
+}
+body, header {
+	width: 960px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+
+li {
+	list-style-type: none;
+	display:inline;
+	padding: 13px;	
+}
+
+li a {
+	text-decoration:none;
+	color:white;
+	padding-top: 10px;
+
+}
+
+ul.a {
+	list-style-type: none;
+}
+
+.image {
+	
+	float: right;
+	position: absolute;
+	left: 500px;
+	
+	
+}
+header {
+	position:absolute;
+}
+
+.class1 {
+	background-color:red;
+}
