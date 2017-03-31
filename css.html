@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+	<head>
+	</head>
+	<body>
+	
+		<script>
+			var tomsmith=["TomSmith","123 Main", 120.50];
+			
+			document.write("1st Index ", tomsmith[0],"<br />");
+			
+			tomsmith[3] = "tomsmith@web.de";
+			
+			tomsmith.splice(2,1,"Pittsbug","PA");
+			
+			tomsmith.splice(4,1);
+
+			
+			document.write("Array : ",tomsmith.valueOf(), "<br />");
+			
+			document.write("Array : ", tomsmith.join(", "), "<br />");
+			
+			
+			
+		</script>
+	</body>
+</html>
